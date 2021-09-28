@@ -1,4 +1,4 @@
-# (title of project)
+# Hawaii
 ## Vivian Wong, Digital Humanities 110
 
 ### assignment01: heuristic evaluation of Hawaii
