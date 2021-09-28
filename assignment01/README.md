@@ -1,7 +1,7 @@
-# Hawaii
+# Recreational Activities Finder for Residents and Visitors of Hawaii
 ## Vivian Wong, Digital Humanities 110
 
-### assignment01: heuristic evaluation of Hawaii
+### Assignment 01: Heuristic Evaluation of Hawaii's Government Websites
 
 ---
 
