@@ -27,7 +27,7 @@ The first website I am analyzing is by the Department of Land and Natural Resour
 Website Link: https://dlnr.hawaii.gov/dsp/
 
 ### Initial Evaluation
-My initial impression of this website was that it is well designed with lots of relevant content. I felt as though it was easy to navigate through the information in the menu and easily locate the most important information on the home page.
+My initial impression of this website was that it is well designed with lots of relevant content. I felt as though it was easy to navigate through the information in the menu and easily locate the most important information on the home page. I really loved how professional and organized the website looked. It was also nice how there were different sections in the menu dividing each recreational activity that the users may be interested in, rather than having all of the activities information condensed into one area. This really made it feel as though this was _the_ ideal site to go to for discovering recreational activities to do in Hawaii.
 
 |Heuristics + Descriptions|Reference Image|Comments|Recommendations|Rating|
 |---|---|---|---|---|
@@ -50,4 +50,5 @@ The second website I am analyzing is by the Hawaii Department of Business, Econo
 Website Link: https://invest.hawaii.gov/buy-hawaii/
 
 ### Initial Evaluation
-I was a little confused at first on how to navigate through the website, which took me a little bit of exploring to truly understand. However, after understanding the purpose of the website, I believe that the organization of this website makes a lot of sense in how it was divided. It also helps how each important category has a box with the title, description, and button linking the user to that specific page on the home page. The home page and color palette are also very clean and simple, which made the website look professional as well. 
+I was a little confused at first on how to navigate through the website, which took me a little bit of exploring to truly understand. However, after understanding the purpose of the website, I believe that the organization of this website makes a lot of sense in how it was divided between marketplaces, food, products, and PPE. It also helps how each important category has a box with the title, description, and button linking the user to that specific page on the home page. The home page and color palette are also very clean and simple, which made the website look professional as well. 
+
