@@ -50,5 +50,17 @@ The second website I am analyzing is by the Hawaii Department of Business, Econo
 Website Link: https://invest.hawaii.gov/buy-hawaii/
 
 ### Initial Evaluation
-I was a little confused at first on how to navigate through the website, which took me a little bit of exploring to truly understand. However, after understanding the purpose of the website, I believe that the organization of this website makes a lot of sense in how it was divided between marketplaces, food, products, and PPE. It also helps how each important category has a box with the title, description, and button linking the user to that specific page on the home page. The home page and color palette are also very clean and simple, which made the website look professional as well. 
+I was a little confused at first on the intended purpose of the website, which took me a little bit of exploring to truly understand. However, after figuring it out, I believe that the organization of this website makes a lot of sense in how it was divided between marketplaces, food, products, and PPE. It also helps how each important category has a box with the title, description, and button linking the user to that specific page on the home page. The home page and color palette are also very clean and simple, which made the website look professional as well. 
 
+|Heuristics + Descriptions|Reference Image|Comments|Recommendations|Rating|
+|---|---|---|---|---|
+|**1. Visibility of System Status:** Provide the user with information about what is happening with their interactions on the website.| 
+|**2. Match Between the System and Real World:** Create designs and interactions that are relevant to us and mimics what we already know from reality. | 
+|**3. User Control and Freedom:** The design gives users the freedom to fix any mistakes made while navigating the website (options for undos and redos)| 
+|**4. Consistency and Standards:** Staying consistent within the design by utilizing the same design features for the same interactions. This includes using design features that are common within other designs and platforms as well.| 
+|**5. Error Prevention:** Create a solution that prevents the user from potential errors before they occur.| 
+|**6. Recognition Rather than Recall:** Provide the user with choices that they can look at and choose from, rather than having them think about it for themselves.| 
+|**7. Flexibility and Efficiency of Use:** Give the design potential to be flexible for a wide variety of users and preferences. | 
+|**8. Aesthetic and Minimalist Design:** Make sure the interface is designed with simplicity in mind, and ensure that everything has a purpose| 
+|**9. Help Users with Errors:** When an error by the user _is_ made, make sure to provide them with an explanation on how the error happened|
+|**10. Help and Documentation:** Provide help to the user in a quick and easy way if requested |
