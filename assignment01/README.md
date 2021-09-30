@@ -28,8 +28,11 @@ Referencing the Nielsen Norman Group's Severity Ratings for Usability Problems, 
 ###### Source: [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
 
 
-## Website 1: Department of Land and Natural Resources
+## Website 1: Department of Land and Natural Resources -- Division of State Parks
 
-https://portal.ehawaii.gov/
+The first website I am analyzing is by the Department of Land and Natural Resources. This website focuses on giving users information regarding recreational activities in nature. It provides information about state parks, camping & lodging, hiking, Hawaii's history, and local wildlife. 
 
-![Hawaii Government Website](HawaiiGovWebsite.png)
+![Department of Land & Natural Resources Home Page](DeptLandNaturalResources.png)
+Website Link: https://dlnr.hawaii.gov/dsp/
+
+Initial Evaluation: The front page of the website is well laid out 
