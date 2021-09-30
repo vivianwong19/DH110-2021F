@@ -36,3 +36,7 @@ The first website I am analyzing is by the Department of Land and Natural Resour
 Website Link: https://dlnr.hawaii.gov/dsp/
 
 Initial Evaluation: The front page of the website is well laid out 
+
+|Heuristics + Descriptions|Reference Image|Comments|Recommendations|Rating|
+|---|---|---|---|---|
+|1. Visibility of System Status: Provide the user with information about what is happening with their interactions on the website|
