@@ -43,4 +43,11 @@ My initial impression of this website was that it is well designed with lots of 
 |**10. Help and Documentation:** Provide help to the user in a quick and easy way if requested | ![Heuristic10 Help](LNRHeuristic10.png) | The FAQ section of the website links to a different page, which requires the user to search through different rule books. There are no questions listed for the user to see upon entering the FAQ page.| This design seems counterintuitive because the FAQ page does not address any questions, and instead require the user to search through documents own their own. I would recommend for questions to be featured on this page so that the user can easily access help if needed.| 3|
 
 
+## Website 2: Buy Hawaii, Give Aloha
+The second website I am analyzing is by the Hawaii Department of Business, Economic Development and Tourism. This website showcases different marketplaces (events), food, restaurants, products, such as PPE, and businesses local to Hawaii. There are pages upon pages providing informaiton and support to locally owned businesses. 
 
+![Buy Hawaii, Give Aloha Home Page](LocalBusinesses.png)
+Website Link: https://invest.hawaii.gov/buy-hawaii/
+
+### Initial Evaluation
+I was a little confused at first on how to navigate through the website, which took me a little bit of exploring to truly understand. However, after understanding the purpose of the website, I believe that the organization of this website makes a lot of sense in how it was divided. It also helps how each important category has a box with the title, description, and button linking the user to that specific page on the home page. The home page and color palette are also very clean and simple, which made the website look professional as well. 
