@@ -1,7 +1,7 @@
 # Activities Finder for Residents and Visitors of Hawaii
 
 ## Assignment 01: Heuristic Evaluation of Hawaii's Government Websites
-Vivian Wong, Digital Humanities 110
+Vivian Wong, Digital Humanities 110: User Experience and Design
 
 ### Project Description
 As I was researching Hawaii's different government websites, I noticed that there were many different platforms for residents and visitors to search from. These websites were created with the intent of informing people about activities they can do around Hawaii. As a big fan of traveling, I've always enjoyed visiting beautiful nature spots, like national parks, which are managed by the government. 
