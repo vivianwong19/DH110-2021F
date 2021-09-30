@@ -59,8 +59,8 @@ I was a little confused at first on the intended purpose of the website, which t
 |**3. User Control and Freedom:** The design gives users the freedom to fix any mistakes made while navigating the website (options for undos and redos)| ![Heuristic3 Back Button](MarketplaceHeuristic3.png)|
 |**4. Consistency and Standards:** Staying consistent within the design by utilizing the same design features for the same interactions. This includes using design features that are common within other designs and platforms as well.| ![Heuristic4 Listings](MarketplaceHeuristic4.png)|
 |**5. Error Prevention:** Create a solution that prevents the user from potential errors before they occur.| ![Heuristic5 Invalid Email](MarketplaceHeuristic5.png)|
-|**6. Recognition Rather than Recall:** Provide the user with choices that they can look at and choose from, rather than having them think about it for themselves.| 
-|**7. Flexibility and Efficiency of Use:** Give the design potential to be flexible for a wide variety of users and preferences. | 
+|**6. Recognition Rather than Recall:** Provide the user with choices that they can look at and choose from, rather than having them think about it for themselves.| ![Heuristic6 Categories](MarketplaceHeuristic6.png)| 
+|**7. Flexibility and Efficiency of Use:** Give the design potential to be flexible for a wide variety of users and preferences. | ![Heuristic7 Translation](MarketplaceHeuristic7.png)|
 |**8. Aesthetic and Minimalist Design:** Make sure the interface is designed with simplicity in mind, and ensure that everything has a purpose| 
-|**9. Help Users with Errors:** When an error by the user _is_ made, make sure to provide them with an explanation on how the error happened|
-|**10. Help and Documentation:** Provide help to the user in a quick and easy way if requested |
+|**9. Help Users with Errors:** When an error by the user _is_ made, make sure to provide them with an explanation on how the error happened| ![Heuristic9 Contact](MarketplaceHeuristic9.png)
+|**10. Help and Documentation:** Provide help to the user in a quick and easy way if requested | ![Heuristic10 FAQ](MarketplaceHeuristic10.png)|
