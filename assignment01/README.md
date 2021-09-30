@@ -39,4 +39,4 @@ Initial Evaluation: The front page of the website is well laid out
 
 |Heuristics + Descriptions|Reference Image|Comments|Recommendations|Rating|
 |---|---|---|---|---|
-|1. Visibility of System Status: Provide the user with information about what is happening with their interactions on the website| ![Heuristic1](DeptHeuristic1.png) |
+|1. Visibility of System Status: Provide the user with information about what is happening with their interactions on the website| ![Heuristic1](LNRHeuristic1.png)|
