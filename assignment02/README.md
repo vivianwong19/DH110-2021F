@@ -7,7 +7,9 @@ Hawaii's Division of State Parks website provides information for residents and 
 
 The purpose of usability testing is
 
-The usability test I conducted was a pilot test with my friend in her apartment.  
+REASONING BEHIND THE TASKS
+
+BACKGROUND INFO ABOUT THE TEST / STEPS TAKEN. The usability test I conducted was a pilot test with my friend in her apartment.   
 
 ## Usability Testing - [Survey](https://forms.gle/4LQeP2iyF1s11XHQ9)
 Link here: https://forms.gle/4LQeP2iyF1s11XHQ9
