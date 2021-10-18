@@ -37,3 +37,11 @@ Vivian Wong, Digital Humanities 110: User Experience and Design
 * The script for the contextual inquiry interview guide can be found here: LINK
 
 ## Step 5: Conducting Research
+* Please find the recording of the interview session here: LINK
+* Please find the transcription of the interview here: LINK
+
+#### Interesting insights from the interview:
+* insight 1
+
+## Step 6: Reflection
+type type type
