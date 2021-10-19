@@ -48,13 +48,16 @@ Vivian Wong, Digital Humanities 110: User Experience and Design
 
 #### Interesting insights from the interview:
 1. Recommendations and first-person accounts are important when it comes to finding a new location
-  > test
+  > "I try to look for first person accounts of people’s personal experiences and what they like best. I might go on a government website to see what trails are available, but in terms of deciding which one I’d go to first, like which trail I’d go to first, I’d look for, like, someone’s experience like on Reddit or like a blog someone has who looks like they do it a lot." (4:51)
 2. Convenience is a major factor when it comes to planning activities
-  > test 
+  > "[The itinerary is] basically like a skeleton of what I want the day to look like. Basically I’m trying to organize and then make sure I’m not driving excessively. So I, like, drive up to the park and do everything there, and then drive back. Instead of driving back and forth… just for convenience’s sake." (32:00) 
 3. Activity preferences can change based on location
-  > test
+  > "I think it depends on each place I go to. Like if I was going to Hawaii, then I’d want to see, like, public nature areas." (35:56)
+
+
+  > "If I was in a metro area, then I’d want to do activities like eating, or experiencing their nightlife." (36:28)
 4. Extensive research and planning are preferred over spontaneous trips
-  > "I think I’d rather research and make sure I’m not missing anything that’s really fun to do there. Because if I want to go - if I were to go to a new place, I’d want to make the most out of it instead of just spontaneously being like “oh, here it is, I don’t know what there is to do here”. Unless someone else planned the trip, then I’ll be like “okay, whatever. I’ll do what you planned cause you researched it”. Or I think someone should have researched it." (TIMESTAMP)
+  > "I think I’d rather research and make sure I’m not missing anything that’s really fun to do there. Because if I want to go - if I were to go to a new place, I’d want to make the most out of it instead of just spontaneously being like “oh, here it is, I don’t know what there is to do here”. Unless someone else planned the trip, then I’ll be like “okay, whatever. I’ll do what you planned cause you researched it”. Or I think someone should have researched it." (38:01)
 
 ## Step 6: Reflection
 type type type
