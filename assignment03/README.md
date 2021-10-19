@@ -35,17 +35,26 @@ Vivian Wong, Digital Humanities 110: User Experience and Design
 ## Step 3: Picking the Qualitative Research Methods
 
 #### Methods
-* type type type
+* The research methods I used for this project includes a combination of **interviewing** and **participatory observation**.
+  * The interview was conducted virtually over Zoom, since my interviewee does not currently live in Westwood. I used my Macbook to set up the Zoom meeting and record the video and audio of our conversation, as well as the screen recording of the user activities. This part of the interview required my interviewee to research and identify a state park in Hawaii that they would be interested in visiting. 
+  * For the participatory observation activity, I asked my interviewee to create an itinerary for for the state park they identified. I shared a Google document with the interviewee so that they could type out their itinerary while keeping the screen shared. The purpose of the participatory observation activity was to see how the user would research and identify activities that they want to do at a particular location. I also wanted to see what else was important when it comes to planning a trip outside of the activities.
 
 ## Step 4: Interview Guide
-* The script for the contextual inquiry interview guide can be found [here](https://docs.google.com/document/d/1iypjMr1uR9saByWxhSVr7h7WQhIwBHK04iCmsNK-UsU/edit?usp=sharing): https://docs.google.com/document/d/1iypjMr1uR9saByWxhSVr7h7WQhIwBHK04iCmsNK-UsU/edit?usp=sharing
+* Please find the script for the contextual inquiry interview guide here: https://docs.google.com/document/d/1iypjMr1uR9saByWxhSVr7h7WQhIwBHK04iCmsNK-UsU/edit?usp=sharing
 
 ## Step 5: Conducting Research
-* Please find the recording of the interview session here: LINK
-* Please find the transcription of the interview here: LINK
+* Please find the recording for the contextual inquiry interview here: 
+* Please find the transcription of the contextual inquiry interview here: https://docs.google.com/document/d/1OPYq_LtxdoScBu3F8DIz05qlf3-hzllaPZp_t_8MCyI/edit?usp=sharing
 
 #### Interesting insights from the interview:
-* insight 1
+1. Recommendations and first-person accounts are important when it comes to finding a new location
+  > test
+2. Convenience is a major factor when it comes to planning activities
+  > test 
+3. Activity preferences can change based on location
+  > test
+4. Extensive research and planning are preferred over spontaneous trips
+  > "I think I’d rather research and make sure I’m not missing anything that’s really fun to do there. Because if I want to go - if I were to go to a new place, I’d want to make the most out of it instead of just spontaneously being like “oh, here it is, I don’t know what there is to do here”. Unless someone else planned the trip, then I’ll be like “okay, whatever. I’ll do what you planned cause you researched it”. Or I think someone should have researched it." (TIMESTAMP)
 
 ## Step 6: Reflection
 type type type
