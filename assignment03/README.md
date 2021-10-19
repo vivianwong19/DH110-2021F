@@ -43,7 +43,11 @@ Vivian Wong, Digital Humanities 110: User Experience and Design
 * Please find the script for the contextual inquiry interview guide here: https://docs.google.com/document/d/1iypjMr1uR9saByWxhSVr7h7WQhIwBHK04iCmsNK-UsU/edit?usp=sharing
 
 ## Step 5: Conducting Research
-* Please find the recording for the contextual inquiry interview here: 
+* Please find the recording for the contextual inquiry interview here: https://drive.google.com/file/d/1npc-cEz3iTAolYa-Chs6Pd8reKeTAFI9/view?usp=sharing
+
+> NOTE: Hi Professor Sookie, I shared the video to your UCLA email via Google Drive. The link should work if you are logged in, otherwise it shows up as private to protect the privacy of my interviewee. Please let me know if there are any issues. Thanks!
+
+
 * Please find the transcription of the contextual inquiry interview here: https://docs.google.com/document/d/1OPYq_LtxdoScBu3F8DIz05qlf3-hzllaPZp_t_8MCyI/edit?usp=sharing
 
 #### Interesting insights from the interview:
@@ -60,4 +64,8 @@ Vivian Wong, Digital Humanities 110: User Experience and Design
   > "I think I’d rather research and make sure I’m not missing anything that’s really fun to do there. Because if I want to go - if I were to go to a new place, I’d want to make the most out of it instead of just spontaneously being like “oh, here it is, I don’t know what there is to do here”. Unless someone else planned the trip, then I’ll be like “okay, whatever. I’ll do what you planned cause you researched it”. Or I think someone should have researched it." (38:01)
 
 ## Step 6: Reflection
-type type type
+The contextual inquiry interview and user activities really helped me learn a lot more about what a user would like to see from my project. I went into the interview with my pre-existing ideas of what I _thought_ should be included in the app, but by talking with someone who has been to Hawaii before and frequently goes on hiking trips, I realized there were a lot of essential features that I hadn't even considered. I also really enjoyed conducting the contextual interview. It felt a lot more natural and I was also able to get a lot more insights and ideas that I could include in my project. This interview was much different from the usability testing interview I did, but I felt like both were still able to give a lot of insights on how to improve my project! 
+
+In terms of difficulties, I felt like I was too reliant on my script. I noticed that I was saying the same couple of phrases ("okay", "cool") after my interviewee would answer the question I had in my script. I also noticed that when I had to change my script on the spot, I tended to pause or add in a lot of filler words ("um", "like"). However, I do know that interviewing (as both an interviewee and an interviewer) is a skill that I can improve over time as I get more practice, so I am hoping that my skills in interviewing will be able to develop naturally, since this contextual inquiry interviews was one of the first interviews I conducted as an interviewer. 
+
+All in all, this contextual inquiry interview provided me with lots of thoughtful ideas to consider for my project. I'm really happy with the results of the interview and I'm excited to further explore the ideas my interviewee mentioned during our conversation.
