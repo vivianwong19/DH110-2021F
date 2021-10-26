@@ -6,9 +6,9 @@ Vivian Wong, Digital Humanities 110: User Experience and Design
 > The purpose of UX storytelling is to empathize with the user and to see things from their perspective as the designer. Through usability testing and contextual inquiry interviews, we are able to get a glimpse of other people's personal experiences with the topic we are designing for. Using this qualitative data, we can create personas that represent our user, as well as scenarios they may face, as part of the UX storytelling process. This process allows  the designer to create a product that suits the needs of various users across demographics.
 
 ### Design Features to Explore
-> * Review Feature - read reviews from people who previously visited the state park and their experiences
-> * Park Finder - find new parks by easily identifying which parks you have already visited. this feature will also showcase activities around the area.
-> * The current working title for my project is called HI, Hawaii!.
+> * Review Feature - This feature will allow for the user to read reviews from people who previously visited the state park and their experiences. Users can also leave behind reviews. There will also be a rating feature, which will allow users to rate certain aspects of an activity, such as the length or intensity. 
+> * Park Finder - Users can find new parks by easily identifying which parks the have already visited through a log. This feature will also showcase activities around the area. There will be a filtering feature that allows for the user to easily toggle between preferences (such as parks they've visited, parks they haven't visited, or both).
+> * The current working title for the name of my project is called HI, Hawaii!.
 
 
 ## Personas and Empathy Maps
