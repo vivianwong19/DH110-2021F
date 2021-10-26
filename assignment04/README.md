@@ -3,7 +3,7 @@
 Vivian Wong, Digital Humanities 110: User Experience and Design
 
 ### Purpose of UX Storytelling
-blah blah blah
+The purpose of UX storytelling is to empathize with the user by putting yourself (as the designer) in their perspectives.
 
 ### Design Features to Explore
 > * test
@@ -15,10 +15,12 @@ blah blah blah
 ![Jordan Hills Persona](JordanHillsPersona.png)
 
 ### Jordan's Empathy Map
-![Jordan Hill Empathy Map](JordanHillsPersona.png)
+![Jordan Hills Empathy Map](JordanEmpathyMap.png)
 
 ### Persona 2: Miley Pham
-> insert image
+![Miley Pham Persona](MileyPhamPersona.png)
 
 ### Miley's Empathy Map
-> insert image
+![Miley Pham Empathy Map](MileyEmpathyMap.png)
+
+## Scenarios and Journey Maps
