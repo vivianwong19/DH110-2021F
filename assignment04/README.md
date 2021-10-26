@@ -24,3 +24,4 @@ Vivian Wong, Digital Humanities 110: User Experience and Design
 ![Miley Pham Empathy Map](MileyEmpathyMap.png)
 
 ## Scenarios and Journey Maps
+Jordan's Scenario - the recommendation feature
