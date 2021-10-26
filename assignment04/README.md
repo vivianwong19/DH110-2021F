@@ -12,10 +12,10 @@ blah blah blah
 
 ## Personas and Empathy Maps
 ### Persona 1: Jordan Hills
-> insert image
+![Jordan Hills Persona](JordanHillsPersona.png)
 
 ### Jordan's Empathy Map
-> insert image
+![Jordan Hill Empathy Map](JordanHillsPersona.png)
 
 ### Persona 2: Miley Pham
 > insert image
