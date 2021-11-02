@@ -25,14 +25,12 @@ With my research and personas, I identified some key features I wanted to explor
 
 
 ## Wireframes and Intended User Flow
-![intended flow 1](Intended1.png)
-![intended flow 2](Intended2.png)
+
 ![intended flow 3](Intended3.png)
 ![intended flow 4](Intended4.png)
 
 ## Low Fidelity Prototype Testing
-![user testing 1](Tested1.png)
-![user testing 2](Tested2.png)
+
 ![user testing 3](Tested3.png)
 ![user testing 4](Tested4.png)
 
