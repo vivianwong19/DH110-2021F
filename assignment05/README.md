@@ -25,12 +25,14 @@ With my research and personas, I identified some key features I wanted to explor
 
 
 ## Wireframes and Intended User Flow
-
+![intended flow 1](Intended1.png)
+![intended flow 2](Intended2.png)
 ![intended flow 3](Intended3.png)
 ![intended flow 4](Intended4.png)
 
 ## Low Fidelity Prototype Testing
-
+![user testing 1](Tested1.png)
+![user testing 2](Tested2.png)
 ![user testing 3](Tested3.png)
 ![user testing 4](Tested4.png)
 
@@ -43,3 +45,6 @@ With my research and personas, I identified some key features I wanted to explor
 > For the trip tracker portion of the app, my thought process was to include it in the profile section, since this was a more personal aspect of the app compared to the other tabs. However, upon seeing the trip tracker in the profile, the user immediately said that it should be included in the navigation bar on the bottom of the screen. This feature was also designed to act as a checklist of previously visited places, but the user got confused with the design and mentioned how they "wouldn't know what to click here". They mentioned that they would like to see something similar to the previous designs created for the review section or filtering section.
 
 ## Reflection
+After conducting the low fidelity prototype testing, I realized that many of my design choices were quite unclear or unnecessary. It was also a lot tougher than expected converting ideas into usable designs. I had an idea on how I wanted a feature to work in my mind, but when it came to creating it on paper, I found myself struggling at times. Despite this, I still found the entire process enjoyable because I was able to explore different sketches and ideas. I am also excited to see how my designs can change over time as well, since these ideas and designs still have plenty of improvements to be made. From this experience, I also understand why low fidelity prototyping is essential, because my testing session revealed many problems that I have yet to fix. The testing session itself went very smoothly, especially since my participant was very open to giving critiques and opinions while interacting with the designs, which I appreciated.
+
+Based on the feedback from the prototype testing, I would want to redesign the search and filtering feature and the trip tracking feature. I would also make a few minor changes to the reviews feature as well to make it easier to understand. For the search and filtering feature, I would redesign it so that the search and filtering are not separate entities, and that the user is able to access both at the same time. I would also redesign the filtering process itself from a dropdown menu to a checklist. For the reviews feature, I would want to make sure it is easy to distinguish the reviews that the user wrote and posted from the reviews that other users wrote. I would also redesign the edit and delete button and make sure it is more obvious to the user so that they can access it. Lastly, for the trip tracking feaure, I would remove it from the profile section, and create an entirely new section in the navigation bar for this feature so that it is easily accessible at all times.
