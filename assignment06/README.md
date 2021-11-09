@@ -65,7 +65,7 @@ In summary, the interviewee noted how the color scheme matched the inspiration t
 ## Design System
 
 ![Figma design system](FigmaDesignSystem.png)
-> Image of my graphic design system saved in Figma
+My graphic design system saved in Figma
 
 ## Summary of Graphic Design
 
