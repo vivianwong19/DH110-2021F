@@ -18,10 +18,9 @@ Here is the link to my Figma file, which shows the full screen design: [LINK]
 ### Shape Variations
 
 ### Color Schemes
+![light and dark modes](LightandDarkModes.png)
 
 ### Layout Test
-
-## Impression Test
 
 ## Accessibility Check (Color Contrast)
 ### Accessibility Check for Light Mode
@@ -32,4 +31,6 @@ Here is the link to my Figma file, which shows the full screen design: [LINK]
 
 ### Accessibility Check for Header
 ![header bar text](NavBarColorContrast.png)
+
+## Impression Test
 
