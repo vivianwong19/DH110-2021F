@@ -17,6 +17,7 @@ Here is the link to my Figma file, which shows the full screen design: [LINK]
 
 ### Shape Variations
 
+
 ### Color Schemes
 ![light and dark modes](LightandDarkModes.png)
 
