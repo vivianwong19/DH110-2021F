@@ -13,6 +13,7 @@ Here is the link to my Figma file, which shows the full screen design: [LINK]
 ## Screen Design
 
 ### Typographic Variations
+![typographic variation](TypographicVariation.png)
 
 ### Shape Variations
 
