@@ -16,7 +16,7 @@ Here is the link to my Figma file, which shows the full screen design: [LINK]
 ![typographic variation](TypographicVariation.png)
 
 ### Shape Variations
-
+![shape variation](Shapes.png)
 
 ### Color Schemes
 ![light and dark modes](LightandDarkModes.png)
