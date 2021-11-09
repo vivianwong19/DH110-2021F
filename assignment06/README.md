@@ -19,6 +19,11 @@ Here is the link to my Figma file, which shows the full screen design: [LINK]
 ![shape variation](Shapes.png)
 
 ### Color Schemes
+
+#### Color Palette
+![color palette](Colors.png)
+
+#### Light and Dark Mode
 ![light and dark modes](LightandDarkModes.png)
 
 ### Layout Test
@@ -34,4 +39,7 @@ Here is the link to my Figma file, which shows the full screen design: [LINK]
 ![header bar text](NavBarColorContrast.png)
 
 ## Impression Test
+
+## Design System & Summary
+
 
