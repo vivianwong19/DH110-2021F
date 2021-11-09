@@ -26,7 +26,8 @@ Here is the link to my Figma file, which shows the full screen design: [LINK]
 #### Light and Dark Mode
 ![light and dark modes](LightandDarkModes.png)
 
-### Layout Test
+### Layout Test (using a 10 px grid)
+![layout](Layout.png)
 
 ## Accessibility Check (Color Contrast)
 ### Accessibility Check for Light Mode
