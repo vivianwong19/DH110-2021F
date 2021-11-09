@@ -8,7 +8,7 @@ The purpose of this interface design is to convert the low-fidelity designs into
 
 I created the list view of the park finder feature in Figma for my example wireframe. This is what it currently looks like:
 
-Here is the link to my Figma page, which shows the full screen design: [LINK]
+Here is the link to my Figma file, which shows the full screen design: [LINK]
 
 ## Screen Design
 
@@ -23,3 +23,12 @@ Here is the link to my Figma page, which shows the full screen design: [LINK]
 ## Impression Test
 
 ## Accessibility Check (Color Contrast)
+### Accessibility Check for Light Mode
+![light mode accessibility check text](LightModeColorContrast.png)
+
+### Accessibility Check for Dark Mode
+![dark mode accessibility check text](DarkModeColorContrast.png)
+
+### Accessibility Check for Header
+![header bar text](NavBarColorContrast.png)
+
