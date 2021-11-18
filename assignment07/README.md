@@ -4,7 +4,7 @@ Vivian Wong, Digital Humanities 110: User Experience & Design
 ## Introduction
 The purpose of my project, which is called the HI, Hawaii! app, is to provide residents and visitors of Hawaii with a comprehensive guide of the different state parks Hawaii has to offer, as well as the different activities that are available to do there. The purpose of this phase is to create an interactive prototype that mimics how the app would work if it were to be fully designed and developed. Using the prototype, I am able to conduct cognitive walkthrough interviews in order to understand how people would naturally interact with the app when asked to do certain tasks. I am able to observe if there are any points of confusion or frustration and make further adjustments as necessary before delivering a final product.
 
-## The Tasks and The Prototype
+## The Tasks and Prototype
 
 I designed and prototyped two tasks that the high fidelity prototype supports.
 
