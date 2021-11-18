@@ -25,7 +25,7 @@ Here is the link to my [Figma file](https://www.figma.com/file/1j8qRtvSNIq4P38Ih
 ---
 
 ![designs with wireflow](DesignsWFlow.png)
-> This is an image of the Figma file showcasing all of the wireflows and how the interface design frames are linked to one another (with wireflows). For a clearer distiction of the flows, please reference the Figma file attached above or linked [here](https://www.figma.com/file/1j8qRtvSNIq4P38Ih8IAZZ/DH-110-Assignment-06?node-id=0%3A1).
+> This is an image of the Figma file showcasing all of the wireflows and how the interface design frames are linked to one another (with wireflows). For a clearer distinction between the flows, please reference the Figma file attached above or linked [here](https://www.figma.com/file/1j8qRtvSNIq4P38Ih8IAZZ/DH-110-Assignment-06?node-id=0%3A1).
 
 ## Cognitive Walkthrough
 I conducted two cognitive walkthrough sessions. Please find the links to the videos here:
@@ -49,5 +49,5 @@ The Process: I conducted the interview for Cognitive Walkthrough 1 before the in
 * At the 6:35 timestamp, I explicitly asked for feedback about the designs and got the following insight:
 > The toggle at the bottom was misleading because the color of the active button was white on top of a blue background, but they thought that the blue color represented the active button.
 
-* I ended up changing the toggle design before Cognitive Walkthrough 2.
+* I ended up changing the toggle design before I conducted the interview for Cognitive Walkthrough 2.
 
