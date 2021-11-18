@@ -6,12 +6,12 @@ The purpose of my project, which is called the HI, Hawaii! app, is to provide re
 
 ## The Tasks and Prototype
 
-I designed and prototyped two tasks that the high fidelity prototype supports.
+I designed and prototyped two tasks that the high fidelity prototype supports:
 
-### Task 1: State Parks Filtering Feature
+#### Task 1: State Parks Filtering Feature
 * The prototype allows the user to interact with the filtering feature, which allows the user to filter by zip code, island, or activities. This is where the user can find comprehensive guides on the state parks and the activities that they can do there.
 
-### Task 2: Writing a Review
+#### Task 2: Writing a Review
 * The prototype allows the user to interact with the review feature, which includes reading other user's reviews, reading the past reviews the user wrote, writing and publishing a new review, and editing and deleting past reviews.
 
 
@@ -20,8 +20,8 @@ Here is the link to my [Figma file](https://www.figma.com/file/1j8qRtvSNIq4P38Ih
 ## Images of Wireflows with Interface Design
 
 
-### Task 1: State Parks Filtering Feature
+#### Task 1: State Parks Filtering Feature
 * I wanted the user to use the filtering feature and see how they would interact with the different elements on the page. I also wanted to see if they knew where to obtain more information regarding the state park within this page as well.
 
-### Task 2: Writing a Review
+#### Task 2: Writing a Review
 * I wanted the user to write a review for a state park. I also wanted to see if they would know how to edit the review when requested.
