@@ -17,6 +17,10 @@ I designed and prototyped two tasks that the high fidelity prototype supports:
 
 Here is the link to my [Figma file](https://www.figma.com/file/1j8qRtvSNIq4P38Ih8IAZZ/DH-110-Assignment-06?node-id=0%3A1) with the high-fidelity designs and wireflow. You can find the link to the interactive prototype [here](https://www.figma.com/proto/1j8qRtvSNIq4P38Ih8IAZZ/DH-110-Assignment-06?node-id=4%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A3).
 
+* FIGMA FILE: https://www.figma.com/file/1j8qRtvSNIq4P38Ih8IAZZ/DH-110-Assignment-06?node-id=0%3A1
+
+* INTERACTIVE PROTOTYPE: https://www.figma.com/proto/1j8qRtvSNIq4P38Ih8IAZZ/DH-110-Assignment-06?node-id=4%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A3
+
 ## Images of Wireflows with Interface Design
 
 ![designs](Designs.png)
