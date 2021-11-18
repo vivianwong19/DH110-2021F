@@ -51,6 +51,9 @@ The Process: I conducted the interview for Cognitive Walkthrough 1 before the in
 
 * I ended up changing the toggle design before I conducted the interview for Cognitive Walkthrough 2.
 
+![old toggle vs. new toggle](OldvNew.png)
+
+> a pretty minor change
 
 ### Cognitive Walkthrough 2
 * For this interview, I made sure to preface the cognitive walkthrough with the information that I had missed from the first interview (about the prototype not having every single element being interactive).
@@ -58,5 +61,6 @@ The Process: I conducted the interview for Cognitive Walkthrough 1 before the in
 * At the 4:15 timestamp, the user noted how they assumed that the bookmarked parks represented the park that the persona has previously been to. As a result of this feedback, I want to create an indicator that will make it clearer on which parks have been previously visited by the user.
 * Overall, I felt like there were less complications in the interactions when it came to the second cognitive walkthrough. I think this may be because of different factors, such as fixing up minor details based on the feedback from Cognitive Walkthrough 1 when it came to the toggle buttons. I also believe since the second participant was already farmiliar with Figma, that made it easier to interact with the prototyping tool compared to the first participant, who had never used Figma before.
 
-General Note:
+General Notes:
 * I noticed that I jump in to help the user out if they've been stuck on something for a while (example: Cognitive Walkthrough 2 - 2:44). I think it's a force of habit for me in my everyday life, so I have to practice being better at letting the user figure things out for themselves without my help. 
+* Overall, I thought the cognitive walkthroughs went great. I also liked getting the opportunity to conduct two interviews this time, and having different perspectives really helped a lot in terms of the feedback. 
