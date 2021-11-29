@@ -1,5 +1,6 @@
 # HI, Hawaii! - a state parks finder for residents and visitors of Hawaii
-## Vivian Wong, Digital Humanities 110
+
+Vivian Wong, Digital Humanities 110
 
 Assignment 08: Pitch
 
