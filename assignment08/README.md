@@ -1,5 +1,7 @@
-# HI, Hawaii! 
-## Vivian Wong
+# HI, Hawaii! - a state parks finder for residents and visitors of Hawaii
+## Vivian Wong, Digital Humanities 110
+
+Assignment 08: Pitch
 
 ### Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
