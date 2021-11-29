@@ -65,7 +65,7 @@ The personas helped me figure out which features to prioritize, especially when 
 ## Low Fidelity Prototype
 The low fidelity prototype phase allows for a cost-effective and quick method for testing initial ideas. The purpose of low fidelity prototyping is to begin brainstorming for potential features and interactions within the app. Through quick sketches (like paper prototyping), less time is invested into the initial designing phase of the project. This is beneficial because designs are extremely subject to change in the beginning stages of designing. I created my low fidelity prototype using an iPad and an app called Notability. Below is an example of the low fidelity prototype I created for this project.
 
-The blue arrows indicate the intended flow of the prototype and which buttons would lead to which interactions. The example image shows the intended wireflow for one of the key features I was designing for. With my research and personas, I had identified some key features I wanted to explore, and created some tasks that I had a participant help test. The tasks included:
+The blue arrows indicate the intended flow of the prototype and which buttons would lead to which interactions. The example image shows the intended wireflow for one of the key features I was designing for (identifying and finding information about a state park in Hawaii). With my research and personas, I had identified some key features I wanted to explore, and created some tasks that I had a participant help test. The tasks included:
 - Identifying a state park the user wants to visit
 - Finding and creating reviews
 - Keeping track of previous trips and parks visited
