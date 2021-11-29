@@ -85,12 +85,35 @@ After getting feedback from a participant on the low fidelity prototype, I start
 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+After the low fidelity prototype testing and finalizing the graphic design variations, I began working on the high fidelity prototype in Figma. The purpose of the high fidelity prototype is to create an interactive prototype that mimics how the app would work if it were to be fully designed and developed. With the prototype, I am able to ask participants to do tasks and observe how they would naturally interact with the app. This allows me to identify if the app is being used as intended, or if there are any points of confusion that I'd have to address before delivering a final product.
+
+[Read more about the high fidelity prototype here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment07)
+
+Please find the link to the project's Figma file [here](https://www.figma.com/file/1j8qRtvSNIq4P38Ih8IAZZ/DH-110-Assignment-06?node-id=0%3A1). The interactive prototype of the project can be found below. 
+
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F1j8qRtvSNIq4P38Ih8IAZZ%2FDH-110-Assignment-06%3Fnode-id%3D4%253A3%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D4%253A3%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 
-## Optional evaluation and revision history 
+## Evaluation and Revision History 
+
+During the prototyping phase (low fidelity, wireframe and design variations, and high fidelity), I was able to conduct a series of interviews and tests in order to get feedback and make revisions as necessary along the way. This consisted of an accessibility audit, impression test, and cognitive walkthrough.
+
+### Accessibility Audit
+I conducted the accessibility audit using a Figma plugin called Stark to check the readability of the text color against the background color ([see here for more information about accessibility checking](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment06#accessibility-check-color-contrast)).
+
+### Impression Test
+For the impression test, I did a five-second impression test, where I showed the design on the screen for five seconds, and asked the participant to recall as many details about the design as possible. Afterwards, I shared the design on the screen again and asked for the participant's feedback in general. 
+
+The documentation regarding the impression test can be found [here](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment06#impression-test). The recording of the impression test can be found here.
+
+The user noted a few points of critique, which I ended up changing due to the feedback. This includes:
+1. Referencing the toggle button between the map and list views: "I feel like there might be a better way to indicate the toggle between the back and the forth of that." - I ended up changing the toggle to one that was rectangular rather than rounded.
+2. Referencing the activities icons: "Right now, I would have to make assumptions on what those icons are." - After another user from a later test noted this issue as well, I created overlays for each icon in the final prototype that would provide users with a brief description on what the icons represented.
+
+### Cognitive Walkthrough
+For the cognitive walkthrough, I found two participants to test my high fidelity prototype.
+
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ## Pitch video 
