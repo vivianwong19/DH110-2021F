@@ -15,14 +15,21 @@ Currently, people rely on a variety of websites in order to find information whe
 ## Competitor Analysis:
 I had initially intended for my project to focus on tourism, so for my competitor analysis, I decided to look at two websites. One website was by Hawaii's Department of Land and Natural Resources -- Division of State Parks, which focuses on providing users with information regarding recreational activities and state parks. The second website was by Hawaii's Department of Business, Economic Development and Tourism, which provides users with information regarding locally owned businesses and marketplaces in Hawaii. 
 
-I conducted heuristic evaluations for both of these websites because they are both related to tourism, but I eventually shifted the focus of my project towards Hawaii's state parks and creating improvements upon what the Department of Land and Natural Resources already has. I wanted to redesign this website and create a project that was more interactive and personalized for users for when they plan their trips. An image of the Department of Land and Natural Resources's website can be found below. [Additional information regarding the heuristic evaluations and competitor analysis can be found here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment01)
+I conducted heuristic evaluations for both of these websites because they are both related to tourism, but I eventually shifted the focus of my project towards Hawaii's state parks and creating improvements upon what the Department of Land and Natural Resources already has. I wanted to redesign this website and create a project that was more interactive and personalized for users for when they plan their trips. An image of the Department of Land and Natural Resources website can be found below. [Additional information regarding the heuristic evaluations and competitor analysis can be found here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment01)
 
 ![department of land and natural resources website](DeptLandNaturalResources.png)
 
 ## Usability Testing
+After the heuristic evaluations and competitor analysis, I conducted a pilot usability testing session of the Department of Land and Natural Resources website to see how a new user would naturally interact with the website. The purpose of usability testing is to analyze the three main metrics of usability when it comes to UX/UI: effectiveness, efficiency, and satisfaction. I conducted the test in an in-person environment, and the participant was someone who had never been to Hawaii before. Through this interview, I was able to get a better sense of how someone would interact with the website if they were planning a trip to a location they had never visited before. 
+
+For the usability testing session, I created a survey for the participant to fill while they were doing the tasks. I designed three main tasks for my participant to do:
+1. Finding a specific state park in Hawaii based on the information provided
+2. Finding information about a campsite and nearby activities at a state park
+3. Finding information about Hawaii's native wildlife
+
+The usability testing session allowed me to observe the participant and identify areas of improvement within the site. [Find more information about the usability testing session here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment02)
 
 ## User research [contextual inquiry, assignment04]:
-Assignment 3 & 4
 Summary and link to your assignment folder
 
 ## UX storytelling [persona+scenario, assignment05]
