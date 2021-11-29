@@ -31,7 +31,7 @@ For the usability testing session, I created a survey for the participant to fil
 
 [More information about the usability testing session can be found here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment02)
 
-## User research [contextual inquiry, assignment04]:
+## User Research:
 After conducting the pilot usability test of the Department of Land and Natural Resources website, I conducted a contextual inquiry interview. The contextual inquiry interview comprised of a combination of interviewing and participatory observation. I was able to interview a new participant who enjoys outdoorsy activities, such as hiking. This participant has also been to Hawaii before, so I was able to get insight from someone who was familiar with the location. 
 
 The contextual inquiry included a question & answer section, as well as two activities. The first activity was to go onto the internet to research and identify a state park in Hawaii they would be interested in visiting. During this task freely chose to interact with the Department of Land and Natural Resources without any guidance from me, which differed in comparison to the usability testing session. The second activity was to create an itinerary for the state park my participant identified, which helped me see how a user would choose find and choose activities at a specific location. Some of the biggest takeaways from the contextual inquiry interview which further helped inspire the design for my project included:
@@ -44,7 +44,13 @@ The contextual inquiry included a question & answer section, as well as two acti
 
 
 ## UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+After the user testing phase, I started on the UX story telling phase. The purpose of UX storytelling is to empathize with the user and to see things from their perspective as the designer. Using the data gathered from the usability test and contextual inquiry, I created personas that represent the user for the app, as well as scenarios they may face, as part of the UX storytelling process. 
+
+I created two personas: Jordan Hills and Miley Pham. Jordan represents a user who doesn't live in Hawaii, but he enjoys travelling and wants to visit the state in order to partake in physical recreational activities. Miley represents a user who has grown up in Hawaii her whole life and is now raising a family in Hawaii as well. She enjoys planning small weekend trips to areas local to her island, but doesn't have much time to do so. After creating the two personas, I also created empathy maps and journey maps for each persona. The empathy map represents what the persona says, thinks, does, and feels. The journey map walks through a scenario where the persona interacts with the design of the project, as well as their though process in regards to the interactions.
+
+|Miley's Persona|Miley's Empathy Map|Miley's Journey Map|
+|---|---|---|
+|test|tet|test|
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
