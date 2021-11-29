@@ -105,7 +105,7 @@ I conducted the accessibility audit using a Figma plugin called Stark to check t
 ### Impression Test
 For the impression test, I did a five-second impression test, where I showed the design on the screen for five seconds, and asked the participant to recall as many details about the design as possible. Afterwards, I shared the design on the screen again and asked for the participant's feedback in general. 
 
-The documentation regarding the impression test can be found [here](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment06#impression-test). The recording of the impression test can be found here.
+The documentation regarding the impression test can be found [here](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment06#impression-test). The recording of the impression test can be found [here](https://drive.google.com/file/d/1-FcbM2Wp1sANFVSfpo34EvAu-XJAxIRT/view?usp=sharing).
 
 The user noted a few points of critique, which I ended up changing due to the feedback. This includes:
 1. Referencing the toggle button between the map and list views: "I feel like there might be a better way to indicate the toggle between the back and the forth of that." - I ended up changing the toggle to one that was rectangular rather than rounded.
@@ -120,7 +120,7 @@ For the tasks, I wanted the user to:
 1. find a state park using the filtering feature
 2. write a review for a state park
 
-I was able to make adjustments between the first and second cognitive walkthrough, and was able to notice an immediate improvement with some of the changes I had made. Overall, the cognitive walkthroughs went well, since both users were able to complete the tasks and provided useful feedback that I was able to apply into the final prototype. 
+I was able to make adjustments between the first and second cognitive walkthrough, and was able to notice an immediate improvement with some of the changes I had made in the second cognitive walkthrough session. Overall, the cognitive walkthroughs went well, since both users were able to complete the tasks and provided useful feedback that I was able to apply into the final prototype. 
 
 [Read more about the cognitive walkthroughs here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment07#cognitive-walkthrough)
 
