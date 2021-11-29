@@ -1,18 +1,18 @@
 # HI, Hawaii! - a state parks finder for residents and visitors of Hawaii
 
-Vivian Wong, Digital Humanities 110
+## Assignment 08: Pitch
 
-Assignment 08: Pitch
+Vivian Wong, Digital Humanities 110: User Experience & Design
 
-## Introduction:
+## Introduction
 
 This project was inspired by the beautiful state parks and beaches that Hawaii is known for. I took large inspiration from Hawaii's Department of Land and Natural Resources website (which I conducted a heuristic evaluation and competitor analysis for). After seeing the website, I wanted to create a state parks finder that would consolidate all of the information regarding Hawaii's state parks, guides, and recreational activities since users have to search through multiple sites in order to find all of the information needed for their trips. The project's purpose is to serve as a platform for residents and visitors of Hawaii to find and explore the beautiful scenery and activities that the islands have to offer.
 
 
-## Design Statement: 
+## Design Statement
 Currently, people rely on a variety of websites in order to find information when planning their trips. Additionally, when I was conducting usability testing on Hawaii's Department of Land and Natural Resources website, there were various points of confusion my participant had when interacting with the site, which I wanted to address in my project. I wanted to consolidate as much information and features within my project so that it could be the ultimate resource for planning trips to Hawaii's state parks.
 
-## Competitor Analysis:
+## Competitor Analysis
 I had initially intended for my project to focus on tourism, so for my competitor analysis, I decided to look at two websites. One website was by Hawaii's Department of Land and Natural Resources -- Division of State Parks, which focuses on providing users with information regarding recreational activities and state parks. The second website was by Hawaii's Department of Business, Economic Development and Tourism, which provides users with information regarding locally owned businesses and marketplaces in Hawaii. 
 
 I conducted heuristic evaluations for both of these websites because they are both related to tourism, but I eventually shifted the focus of my project towards Hawaii's state parks and creating improvements upon what the Department of Land and Natural Resources already has. I wanted to redesign this website and create a project that was more interactive and personalized for users for when they plan their trips. An image of the Department of Land and Natural Resources website can be found below. 
@@ -31,7 +31,7 @@ For the usability testing session, I created a survey for the participant to fil
 
 [More information about the usability testing session can be found here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment02)
 
-## User Research:
+## User Research
 After conducting the pilot usability test of the Department of Land and Natural Resources website, I conducted a contextual inquiry interview. The contextual inquiry interview comprised of a combination of interviewing and participatory observation. I was able to interview a new participant who enjoys outdoorsy activities, such as hiking. This participant has also been to Hawaii before, so I was able to get insight from someone who was familiar with the location. 
 
 The contextual inquiry included a question & answer section, as well as two activities. The first activity was to go onto the internet to research and identify a state park in Hawaii they would be interested in visiting. During this task freely chose to interact with the Department of Land and Natural Resources without any guidance from me, which differed in comparison to the usability testing session. The second activity was to create an itinerary for the state park my participant identified, which helped me see how a user would choose find and choose activities at a specific location. Some of the biggest takeaways from the contextual inquiry interview which further helped inspire the design for my project included:
@@ -43,7 +43,7 @@ The contextual inquiry included a question & answer section, as well as two acti
 [Read more about the contextual inquiry here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment03)
 
 
-## UX storytelling
+## UX Storytelling
 After the user testing phase, I started on the UX story telling phase. The purpose of UX storytelling is to empathize with the user and to see things from their perspective as the designer. Using the data gathered from the usability test and contextual inquiry, I created personas that represent the user for the app, as well as scenarios they may face, as part of the UX storytelling process. 
 
 I created two personas: Jordan Hills and Miley Pham. Jordan represents a user who doesn't live in Hawaii, but he enjoys travelling and wants to visit the state in order to partake in physical recreational activities. Miley represents a user who has grown up in Hawaii her whole life and is now raising a family in Hawaii as well. She enjoys planning small weekend trips to areas local to her island, but doesn't have much time to do so. After creating the two personas, I also created empathy maps and journey maps for each persona. The empathy map represents what the persona says, thinks, does, and feels. The journey map walks through a scenario where the persona interacts with the design of the project, as well as their though process in regards to the interactions. 
@@ -84,7 +84,7 @@ After getting feedback from a participant on the low fidelity prototype, I start
 | Typographic Variation | ![typographic variation](TypographicVariation.png) |
 
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+## High Fidelity Prototype
 After the low fidelity prototype testing and finalizing the graphic design variations, I began working on the high fidelity prototype in Figma. The purpose of the high fidelity prototype is to create an interactive prototype that mimics how the app would work if it were to be fully designed and developed. With the prototype, I am able to ask participants to do tasks and observe how they would naturally interact with the app. This allows me to identify if the app is being used as intended, or if there are any points of confusion that I'd have to address before delivering a final product.
 
 [Read more about the high fidelity prototype here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment07)
@@ -112,11 +112,27 @@ The user noted a few points of critique, which I ended up changing due to the fe
 2. Referencing the activities icons: "Right now, I would have to make assumptions on what those icons are." - After another user from a later test noted this issue as well, I created overlays for each icon in the final prototype that would provide users with a brief description on what the icons represented.
 
 ### Cognitive Walkthrough
-For the cognitive walkthrough, I found two participants to test my high fidelity prototype.
+For the cognitive walkthrough, I had two participants test my high fidelity prototype and perform tasks that the app was designed for. Please find the recordings for the cognitive walkthroughs here:
+- [Cognitive Walkthrough 1](https://drive.google.com/file/d/10bB17R0WoewTFybLEHA4p5zGgnMgPnwX/view?usp=sharing)
+- [Cognitive Walkthrough 2](https://drive.google.com/file/d/10bB17R0WoewTFybLEHA4p5zGgnMgPnwX/view?usp=sharing)
 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+For the tasks, I wanted the user to:
+1. find a state park using the filtering feature
+2. write a review for a state park
 
-## Pitch video 
+I was able to make adjustments between the first and second cognitive walkthrough, and was able to notice an immediate improvement with some of the changes I had made. Overall, the cognitive walkthroughs went well, since both users were able to complete the tasks and provided useful feedback that I was able to apply into the final prototype. 
+
+[Read more about the cognitive walkthroughs here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment07#cognitive-walkthrough)
+
+## Pitch Video 
 (after this portfolio is done, you will record a pitch video and embed the video here)
 
-## Conclusion: what did you learn throughout the process?
+## Conclusion
+
+In conclusion, I really enjoyed working on this project throughout quarter in Digital Humanities 110. This was one of the most user research heavy projects I have worked on, and I was able to learn a lot of new methods for conducting research. The feedback that I received during my testing sessions was invaluable, since it was able to inspire different features in the beginning, and allowed me to think of new ways to improve the designs during the prototyping stages as well. 
+
+I think in a lot of projects I've worked on in the past, I didn't prioritize testing and research as much, especially since I have a background in graphic design, which made me want to create "pretty" designs. However, through this class I realized that user experience design relies heavily on conducting research, interviews, and tests in order prioritize the usability of the design before anything else. I plan on utilizing the skills and methods I learned from this class in my projects moving forward, especially after seeing how drastically the feedback can be used to improve upon a design and help draw inspiration.
+
+I also initially wanted the project to focus on all things related to tourism in Hawaii (including a feature that would allow users to search for local businesses in Hawaii). However, after the heuristic evaluations and initial pilot tests, I realized that I wanted to focus on Hawaii's natural beauty for this project and prioritize the state parks and recreational activities finder (which was directly inspired by the Department of Land and Natural Resources website). In the end, I am very happy I made this change because the app and features feel more relevant and consolidated to one another.
+
+If I had more time, I would have wanted to create more frames and prototype for the other planned features I had for my app (a feature to track previous parks visited, a profile section, and a tab to reference bookmarked state parks). I would also want to conduct extra usability testing sessions to continue improving upon my designs so that the final product is as user-friendly as possible. However, I am happy with the project and proud of the progress I was able to make throughout these past 10 weeks. I also felt like the theme I chose for my project was a lot of fun, so it made me excited to continue working and improving upon my designs.
