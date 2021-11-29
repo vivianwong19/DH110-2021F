@@ -12,6 +12,8 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
+![department of land and natural resources website](./assignment01/DeptLandNaturalResources.png)
+
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
