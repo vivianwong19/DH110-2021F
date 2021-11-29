@@ -43,7 +43,7 @@ The contextual inquiry included a question & answer section, as well as two acti
 [Read more about the contextual inquiry here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment03)
 
 
-## UX storytelling [persona+scenario, assignment05]
+## UX storytelling
 After the user testing phase, I started on the UX story telling phase. The purpose of UX storytelling is to empathize with the user and to see things from their perspective as the designer. Using the data gathered from the usability test and contextual inquiry, I created personas that represent the user for the app, as well as scenarios they may face, as part of the UX storytelling process. 
 
 I created two personas: Jordan Hills and Miley Pham. Jordan represents a user who doesn't live in Hawaii, but he enjoys travelling and wants to visit the state in order to partake in physical recreational activities. Miley represents a user who has grown up in Hawaii her whole life and is now raising a family in Hawaii as well. She enjoys planning small weekend trips to areas local to her island, but doesn't have much time to do so. After creating the two personas, I also created empathy maps and journey maps for each persona. The empathy map represents what the persona says, thinks, does, and feels. The journey map walks through a scenario where the persona interacts with the design of the project, as well as their though process in regards to the interactions.
