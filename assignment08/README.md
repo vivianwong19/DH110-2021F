@@ -74,7 +74,12 @@ The blue arrows indicate the intended flow of the prototype and which buttons wo
 ![example of low fidelity prototype](Intended1.png)
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
+After getting feedback from a participant on the low fidelity prototype, I started creating the designs on Figma. Before creating the high fidelity prototype, I made one wireframe with different design elements and variations. The purpose of the interface design is to create a design system and digitize the low fidelity design into one with a developed style (color palette, shape variation, and typographic variation). This will make it easier for designing multiple frames for the high fidelity mockup. Attached below are images of the different design element variations that I created for my project.
 
+| Color Palette | test |
+| --- | --- |
+| Shape Variation | test |
+| Typographic Variation | test |
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
