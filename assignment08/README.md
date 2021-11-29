@@ -91,7 +91,6 @@ After the low fidelity prototype testing and finalizing the graphic design varia
 
 Please find the link to the project's Figma file [here](https://www.figma.com/file/1j8qRtvSNIq4P38Ih8IAZZ/DH-110-Assignment-06?node-id=0%3A1). The interactive prototype of the project can be found below. 
 
-
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F1j8qRtvSNIq4P38Ih8IAZZ%2FDH-110-Assignment-06%3Fnode-id%3D4%253A3%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D4%253A3%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 
