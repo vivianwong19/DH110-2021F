@@ -3,6 +3,8 @@
 
 ### Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
+Test blah blah text
+
 
 ### Clear design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project?
