@@ -10,7 +10,7 @@ This project was inspired by the beautiful state parks and beaches that Hawaii i
 
 
 ### Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project?
+Currently, people rely on a variety of websites in order to find information when planning their trips. Additionally, when I was conducting usability testing on Hawaii's Department of Land and Natural Resources website, there were various points of confusion my participant had when interacting with the site, which I wanted to address in my project. I wanted to consolidate as much information and features within my project so that it could be the ultimate resource for planning trips to Hawaii's state parks.
 
 ### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
