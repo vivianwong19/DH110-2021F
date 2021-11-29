@@ -6,7 +6,7 @@ Assignment 08: Pitch
 
 ### Introduction:
 
-This project was inspired by the beautiful state parks and beaches that Hawaii is known for. I took large inspiration from Hawaii's Department of Land and Natural Resources website (which I conducted a heuristic evaluation and competitor analysis for). After seeing the website, I wanted to create a state parks finder that would consolidate all of the information regarding Hawaii's state parks, guides, and recreational activities. The project's purpose is to serve as a platform for residents and visitors of Hawaii to find and explore the beautiful outdoors that the islands have to offer.
+This project was inspired by the beautiful state parks and beaches that Hawaii is known for. I took large inspiration from Hawaii's Department of Land and Natural Resources website (which I conducted a heuristic evaluation and competitor analysis for). After seeing the website, I wanted to create a state parks finder that would consolidate all of the information regarding Hawaii's state parks, guides, and recreational activities since users have to search through multiple sites in order to find all of the information needed for their trips. The project's purpose is to serve as a platform for residents and visitors of Hawaii to find and explore the beautiful scenery and activities that the islands have to offer.
 
 
 ### Clear design statement: 
