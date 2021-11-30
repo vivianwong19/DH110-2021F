@@ -126,7 +126,7 @@ I was able to make adjustments between the first and second cognitive walkthroug
 [Read more about the cognitive walkthroughs here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment07#cognitive-walkthrough)
 
 ## Pitch Video 
-(after this portfolio is done, you will record a pitch video and embed the video here)
+<iframe src="https://drive.google.com/file/d/10bB17R0WoewTFybLEHA4p5zGgnMgPnwX/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Conclusion
 
