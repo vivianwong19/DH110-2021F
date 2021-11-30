@@ -128,7 +128,7 @@ I was able to make adjustments between the first and second cognitive walkthroug
 ## Pitch Video 
 <iframe width="840" height="473" src="https://www.youtube.com/embed/QQ8U4ECVERE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here is the link for the Pitch Video on [YouTube](https://www.youtube.com/watch?v=QQ8U4ECVERE) and [Google Drive](https://drive.google.com/file/d/11C4DkRG4vEpO-RefQ9PKCS-zkTAQEBdU/view?usp=sharing) (for backup).
+The Pitch Video is also accessible via these links on [YouTube](https://www.youtube.com/watch?v=QQ8U4ECVERE) or [Google Drive](https://drive.google.com/file/d/11C4DkRG4vEpO-RefQ9PKCS-zkTAQEBdU/view?usp=sharing).
 
 ## Conclusion
 
