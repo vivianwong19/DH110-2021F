@@ -128,6 +128,8 @@ I was able to make adjustments between the first and second cognitive walkthroug
 ## Pitch Video 
 <iframe width="840" height="473" src="https://www.youtube.com/embed/QQ8U4ECVERE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Here is the link for the Pitch Video on [YouTube](https://www.youtube.com/watch?v=QQ8U4ECVERE) and [Google Drive](https://drive.google.com/file/d/11C4DkRG4vEpO-RefQ9PKCS-zkTAQEBdU/view?usp=sharing) (for backup).
+
 ## Conclusion
 
 In conclusion, I really enjoyed working on this project throughout quarter in Digital Humanities 110. This was one of the most user research heavy projects I have worked on, and I was able to learn a lot of new methods for conducting research. The feedback that I received during my testing sessions was invaluable, since it was able to inspire different features in the beginning, and allowed me to think of new ways to improve the designs during the prototyping stages as well. 
