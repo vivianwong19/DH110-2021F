@@ -58,7 +58,7 @@ I created two personas: Jordan Hills and Miley Pham. Jordan represents a user wh
 
 The personas helped me figure out which features to prioritize, especially when taking into consideration the feedback I had previously received from the usability testing and contextual inquiry. I was able to use this information in order to start working on the designs and prototype for my project.
 
-[Find more details about the UX storytelling process, personas, empathy maps, and journey maps here...](https://github.com/vivianwong19/DH110-2021F/blob/main/assignment04/JordanJourneyMap.png)
+[Find more details about the UX storytelling process, personas, empathy maps, and journey maps here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment04)
 
 ## Low Fidelity Prototype
 The low fidelity prototype phase allows for a cost-effective and quick method for testing initial ideas. The purpose of low fidelity prototyping is to begin brainstorming for potential features and interactions within the app. Through quick sketches (like paper prototyping), less time is invested into the initial designing phase of the project. This is beneficial because designs are extremely subject to change in the beginning stages of designing. I created my low fidelity prototype using an iPad and an app called Notability. Below is an example of the low fidelity prototype I created for this project.
