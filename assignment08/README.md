@@ -87,6 +87,8 @@ After getting feedback from a participant on the low fidelity prototype, I start
 ## High Fidelity Prototype
 After the low fidelity prototype testing and finalizing the graphic design variations, I began working on the high fidelity prototype in Figma. The purpose of the high fidelity prototype is to create an interactive prototype that mimics how the app would work if it were to be fully designed and developed. With the prototype, I am able to ask participants to do tasks and observe how they would naturally interact with the app. This allows me to identify if the app is being used as intended, or if there are any points of confusion that I'd have to address before delivering a final product.
 
+The main features that were prototyped in the high fidelity prototype were the "Parks" tab, which allows the user to filter through state parks and find information about the parks; and the "Reviews" tab, which allows the user to read other user's reviews, read their past reviews with options to edit or delete the content, or leave a new review.
+
 [Read more about the high fidelity prototype here...](https://github.com/vivianwong19/DH110-2021F/tree/main/assignment07)
 
 Please find the link to the project's Figma file [here](https://www.figma.com/file/1j8qRtvSNIq4P38Ih8IAZZ/DH-110-Assignment-06?node-id=0%3A1). The interactive prototype of the project can be found below. 
