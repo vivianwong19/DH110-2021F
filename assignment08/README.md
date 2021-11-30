@@ -115,7 +115,7 @@ The user noted a few points of critique, which I ended up changing due to the fe
 ### Cognitive Walkthrough
 For the cognitive walkthrough, I had two participants test my high fidelity prototype and perform tasks that the app was designed for. Please find the recordings for the cognitive walkthroughs here:
 - [Cognitive Walkthrough 1](https://drive.google.com/file/d/10bB17R0WoewTFybLEHA4p5zGgnMgPnwX/view?usp=sharing)
-- [Cognitive Walkthrough 2](https://drive.google.com/file/d/10bB17R0WoewTFybLEHA4p5zGgnMgPnwX/view?usp=sharing)
+- [Cognitive Walkthrough 2](https://drive.google.com/file/d/1Aee81gkl8PBSOIDF6YucV_Ysd83pWWBA/view?usp=sharing)
 
 For the tasks, I wanted the user to:
 1. find a state park using the filtering feature
